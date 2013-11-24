@@ -120,7 +120,7 @@
 //
 // TAB BUTTONS
 //
-    
+
     // Tab close button
     {
         "class": "tab_close_button",
@@ -199,7 +199,7 @@
 //
 // TAB LABELS
 //
-    
+
     {
         "class": "tab_label",
         "fade": true,
@@ -569,7 +569,7 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Soda/Soda Light/sidebar-row-selected.png",
+        "layer0.texture": "Theme - Soda/Soda Light/sidebar-row-selected-graphite.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
@@ -815,7 +815,7 @@
         "class": "dropdown_button_control",
         "attributes": ["hover"],
         "layer0.texture": "Theme - Soda/Soda Light/text-field-list-hover.png"
-    },    
+    },
 
 //
 // PANEL BACKGROUNDS
@@ -930,7 +930,7 @@
     },
     {
         "class": "table_row",
-        "layer0.texture": "Theme - Soda/Soda Light/autocomplete-row-selected.png",
+        "layer0.texture": "Theme - Soda/Soda Light/autocomplete-row-selected-graphite.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [3, 1]
     },
